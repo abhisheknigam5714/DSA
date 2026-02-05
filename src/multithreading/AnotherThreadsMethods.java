@@ -47,5 +47,5 @@ public class AnotherThreadsMethods {
 		
 		
 	}
-
+// Demons thread will terminate automatically when there is no actve userThraed
 }
